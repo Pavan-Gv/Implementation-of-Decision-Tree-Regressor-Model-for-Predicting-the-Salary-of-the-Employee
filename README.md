@@ -61,6 +61,13 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+![ML1](https://user-images.githubusercontent.com/94827772/173214269-3da331e3-e1a1-4964-928d-22d7ecc8fa30.png)
+
+![ML2](https://user-images.githubusercontent.com/94827772/173214267-b14c4392-e775-4665-a8cf-60e2850591cc.png)
+
+![ML3](https://user-images.githubusercontent.com/94827772/173214265-22af9af6-b9c3-4d3d-8cad-1011062a9cec.png)
+
+![ML4](https://user-images.githubusercontent.com/94827772/173214264-11a5e9c3-c600-4715-a64d-f7d2704f1443.png)
 
 
 ## Result:
